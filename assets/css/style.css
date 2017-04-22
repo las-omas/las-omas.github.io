@@ -1223,7 +1223,6 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: white;
 		color: #fff;
 		padding: 1em 0;
 		text-align: center;
@@ -1284,7 +1283,7 @@
 /* Main */
 
 	.las-omas-logo {
-		width:250px;
+		width:200px;
 		height:auto;
 	}
 

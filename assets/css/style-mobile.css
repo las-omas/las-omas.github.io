@@ -40,7 +40,7 @@
 	.box {
 		margin: 1em;
 		overflow-x: hidden;
-		padding: 2em 2em !important;
+		padding: 6em 2em !important;
 	}
 
 		.box.features .features-row {
@@ -81,7 +81,7 @@
 /* Banner */
 
 	#banner {
-		padding: 4em 0;
+		padding: 1em 0 0 0;
 	}
 
 		#banner h2 {
@@ -113,7 +113,7 @@
 
 	body.landing #main {
 		padding: 0;
-		margin-top: 0;
+		margin-top: -6em;
 	}
 
 /* Footer */

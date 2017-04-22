@@ -1222,9 +1222,8 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,							fixed;
 		color: #fff;
-		padding: 1em 0;
+		padding: 3em 0;
 		text-align: center;
 	}
 
